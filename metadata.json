@@ -1,0 +1,5 @@
+{
+  "name": "Cribble Intranet Portal",
+  "description": "A local offline wifi mobile portal for intranet-based apps and services.",
+  "requestFramePermissions": []
+}
